@@ -1,4 +1,5 @@
 #!/bin/bash
-echo HelloAll
+echo Hello all
 echo Hello world
 echo Hello students
+echo hello world
